@@ -3,7 +3,7 @@
 This is the repo of the finetuned DETR on face detection. Running the train.py like the rest of the repo is detailing it will train the model on the WIDER face
 data-set. You might want to change the paths of the images according to your setup. The original repo can be found here : [DETR-tensorflow](https://github.com/Visual-Behavior/detr-tensorflow). 
 
-The model weights can be dowloaded here : [Link to weights](https://drive.google.com/drive/folders/1yfzm7ZZVNfnoSIsmSOXhosOW0DD8itG-?usp=sharing). In order to visualize with the notebook, you'll need to drag the files from the weights/best_face_det folder into the notebook folder.
+The model weights can be dowloaded here : [Link to weights](https://drive.google.com/drive/folders/1yfzm7ZZVNfnoSIsmSOXhosOW0DD8itG-?usp=sharing). You need to copy the weights folder also in the notebook folder. In order to visualize the predictions with the notebook jupyter files, you'll need to drag the files from the weights/best_face_det folder into the notebook folder.
 
 The rest of the README is from the original repo.
 
