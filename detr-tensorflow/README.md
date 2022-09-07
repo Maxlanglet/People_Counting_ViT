@@ -1,5 +1,21 @@
 # DETR : End-to-End Object Detection with Transformers (Tensorflow)
 
+This is the repo of the finetuned DETR on face detection. Running the train.py like the rest of the repo is detailing it will train the model on the WIDER face
+data-set. You might want to change the paths of the images according to your setup. The original repo can be found here : [DETR-tensorflow](https://github.com/Visual-Behavior/detr-tensorflow). 
+
+The model weights can be dowloaded here : [Link to weights](https://drive.google.com/drive/folders/1yfzm7ZZVNfnoSIsmSOXhosOW0DD8itG-?usp=sharing). In order to visualize with the notebook, you'll need to drag the files from the weights/best_face_det folder into the notebook folder.
+
+The rest of the README is from the original repo.
+
+
+
+
+
+
+
+
+_______________________________________________________
+
 Tensorflow implementation of DETR : Object Detection with Transformers, including code for inference, training, and finetuning. DETR is a promising model that brings widely adopted transformers to vision models. We believe that models based on convolution and transformers will soon become the default choice for most practitioners because of the simplicity of the training procedure: NMS and anchors free! Therefore this repository is a step toward making this type of architecture widely available. 
 
 * [1. Install](#install)
