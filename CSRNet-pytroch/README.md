@@ -2,6 +2,10 @@
 
 This is a modified version of the CSRNet network, using Convolutional vision Transformer. The original repo can be found : [CSRNet-pytorch](https://github.com/leeyeehoo/CSRNet-pytorch), the rest of the README is from the original repo.
 
+The CvT implementation resulted for part A in a MAE 121 of and for part B in a MAE of 29
+
+----------------------------------
+
 This is the PyTorch version repo for [CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes](https://arxiv.org/abs/1802.10062) in CVPR 2018, which delivered a state-of-the-art, straightforward and end-to-end architecture for crowd counting tasks.
 
 ## Datasets
