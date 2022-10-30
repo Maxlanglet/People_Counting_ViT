@@ -163,7 +163,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Maxime Langlet - maxime.langlet@outlook.be
 
-Project Link: [Neural Networks from scratch in C++](https://github.com/Maxlanglet/Neural-Network-from-scratch-in-C-)
+Project Link: [People Counting using Vision Transformers](https://github.com/Maxlanglet/People_Counting_ViT)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +182,7 @@ Project Link: [Neural Networks from scratch in C++](https://github.com/Maxlangle
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/bitbucket/issues/MaxLanglet/Neural-Network-from-scratch-in-C-
-[issues-url]: https://github.com/Maxlanglet/Neural-Network-from-scratch-in-C-/issues
+[issues-url]: https://github.com/Maxlanglet/People_Counting_ViT/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-brightgreen
 [license-url]: https://github.com/Maxlanglet/Neural-Network-from-scratch-in-C-/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Link-yellowgreen
