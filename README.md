@@ -178,8 +178,8 @@ Project Link: [Neural Networks from scratch in C++](https://github.com/Maxlangle
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Sebastien Lague](https://www.youtube.com/watch?v=hfMk-kjRv4c)
-* [othneildrew](https://github.com/othneildrew/Best-README-Template)
+* [Olivier Debeir]()
+* [Feras Almasri]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
