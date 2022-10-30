@@ -1,9 +1,3 @@
-People Counting using Vision Transformers
-Master's thesis project "Exploring people counting using Vision Transformers". Each folder has his README file detailing the repo.
-
-
-
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -83,7 +77,7 @@ Master's thesis project "Exploring people counting using Vision Transformers". E
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This repository is the implementation of the master's thesis Exploring people counting using Vision Transformers
+This repository is the implementation of the master's thesis Exploring people counting using Vision Transformers. Each folder has his README file detailing the repo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,8 +172,8 @@ Project Link: [Neural Networks from scratch in C++](https://github.com/Maxlangle
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Olivier Debeir]()
-* [Feras Almasri]()
+* Olivier Debeir
+* Feras Almasri
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
