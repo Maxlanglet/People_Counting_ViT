@@ -32,15 +32,11 @@ Master's thesis project "Exploring people counting using Vision Transformers". E
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/Maxlanglet/People_Counting_ViT">
-    <img src="images/nn.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">People Counting using Vision Tranformers</h3>
 
   <p align="center">
-    project_description
+    Exploring poeple counting using vision transformers, counting being done by detection and crowd counting.
     <br />
     <a href="https://github.com/Maxlanglet/People_Counting_ViT"><strong>Explore the docs »</strong></a>
     <br />
